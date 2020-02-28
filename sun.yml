@@ -1,3 +1,3 @@
 spring:
   profiles:sun
-hello: world
+hello: world1
